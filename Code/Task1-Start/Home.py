@@ -1,7 +1,8 @@
 import streamlit as st
 import os
 import pandas as pd
-from AdvancedVisulizationMethods import displaySample, convertIntoDF, plotChart, generate_bar_chart, generate_histogram, generate_pie_chart
+from .AdvancedVisulizationMethods import displaySample, convertIntoDF, plotChart, generate_bar_chart, generate_histogram, generate_pie_chart
+ 
 
 
 
