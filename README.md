@@ -1,1 +1,1 @@
-# Intern-project-Simple-Data-Visualization-with-Matplotlib
+# Simple Data Visualization with Matplotlib
